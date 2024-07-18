@@ -1,5 +1,5 @@
 
-function App() {
+function Login() {
 
   return (
     <div className="flex flex-col justify-center items-center h-screen">
@@ -19,4 +19,4 @@ function App() {
   )
 }
 
-export default App
+export default Login
